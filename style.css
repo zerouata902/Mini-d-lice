@@ -632,7 +632,7 @@ button.close:hover {
     margin-right: auto;
 }
 .book-block-full-image{
-    background: url('../images/Home/Image17.png');
+    background: url('../Image17.png');
     margin-top: 135px;
     padding: 65px 0;
 }
@@ -732,7 +732,7 @@ button.close:hover {
     text-align: justify;
 }
 .counter-full-image{
-    background: url('../images/LL2.png') no-repeat scroll 0 0 / cover ;
+    background: url('..LL2.png') no-repeat scroll 0 0 / cover ;
     padding: 110px 0;
     color: yellow;
     text-align: center;
