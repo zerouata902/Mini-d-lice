@@ -732,7 +732,7 @@ button.close:hover {
     text-align: justify;
 }
 .counter-full-image{
-    background: url('..LL2.png') no-repeat scroll 0 0 / cover ;
+    background: url('LL2.png') no-repeat scroll 0 0 / cover ;
     padding: 110px 0;
     color: yellow;
     text-align: center;
